@@ -1,4 +1,4 @@
 # hello-world
-example repo
+Example Repository
 
 This is the first edit of the read me file
